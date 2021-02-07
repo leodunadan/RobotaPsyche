@@ -95,7 +95,7 @@ class Mover {
     }
   }
 
-  void checkEdges() {
+  void checkEdges() {  //takes the rocket to the other side of the window
 
     if (location.x > width) {
       location.x = 0;
