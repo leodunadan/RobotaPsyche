@@ -14,7 +14,7 @@ List of forces:
 ## February 15th - Assignnment 3
 I found force fields confusing so the goal of doing this assignemt for me was to undertstand them better. I watched Daniel's Shiffman's videos and got inspired by one of the force fields that he made so I tried to recreate it on my own. Since I used the video to understand it, the code is very similar to what Daniel used, but I was proud of being able to make it work on my own. 
 
-![](Images/force field screenshot.JPG)
+![](Images/forceFieldFeb15.JPG)
 
 I thought that the pattern of the movement looked a lot like a school of fish in an ocean so I tried to use an image of a fish to replace the trianges. The code didn't work however (I would post it here anyway for Michael to have a look) and it kept giving me an error that I didnt find the cause of because all the variables seemed defined to me. It was taking to much time so I unfortunately had to give up even though I suspect that the error is something silly :( I would like to talk to Michael about it in class and hopefully get it to work!
 
