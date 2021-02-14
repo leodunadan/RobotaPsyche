@@ -18,5 +18,5 @@ I found force fields confusing so the goal of doing this assignemt for me was to
 
 I thought that the pattern of the movement looked a lot like a school of fish in an ocean so I tried to use an image of a fish to replace the trianges. The code didn't work however (I would post it here anyway for Michael to have a look) and it kept giving me an error that I didnt find the cause of because all the variables seemed defined to me. It was taking to much time so I unfortunately had to give up even though I suspect that the error is something silly :( I would like to talk to Michael about it in class and hopefully get it to work!
 
-![](Images/ForceFieldFail.png)
+![](Images/forceFieldFail.JPG)
  
