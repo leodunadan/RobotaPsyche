@@ -11,7 +11,7 @@ List of forces:
 5) bungie jumper
 6) skydiver 
 
-## February 15th - Assignnment 3
+## February 15th - Assignment 3
 I found force fields confusing so the goal of doing this assignemt for me was to undertstand them better. I watched Daniel's Shiffman's videos and got inspired by one of the force fields that he made so I tried to recreate it on my own. Since I used the video to understand it, the code is very similar to what Daniel used, but I was proud of being able to make it work on my own. 
 
 ![](Images/forceFieldFeb15.JPG)
@@ -19,4 +19,8 @@ I found force fields confusing so the goal of doing this assignemt for me was to
 I thought that the pattern of the movement looked a lot like a school of fish in an ocean so I tried to use an image of a fish to replace the trianges. The code didn't work however (I would post it here anyway for Michael to have a look) and it kept giving me an error that I didnt find the cause of because all the variables seemed defined to me. It was taking to much time so I unfortunately had to give up even though I suspect that the error is something silly :( I would like to talk to Michael about it in class and hopefully get it to work!
 
 ![](Images/forceFieldFail.JPG)
+
+## February 22nd - Assignment 4
+
+I decided to modify the code of my previous assignemt to have the vehicles evolve to stay away from the edges of the canvas. For the first part, I decided to use applyForce when they approach the edge and turn around - kind of like they are scared and want to run away from the edges. I decided to do that by increading acceleration based on the parameter of being close to the edges. I thought that an 'if' function would be appropriate. So I would say 'if distance x is as such the force would be applied'. I then realised that for that to make sense, the vehicles would have to turn back first. That would be the second part of the assignemt - to evolve the vehicles to be 'afraid' of the edges so that they turn away when they are close and then accelerate away for a short time. I went back to the lecture notes and then to Daniel's Shiffman's books and spent a considerable amount of type stydying it again before admitting to myself that I am completely an utterly lost in regard to how to come about to actually implementing this and reached out to Michael. 
  
