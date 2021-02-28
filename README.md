@@ -24,3 +24,11 @@ I thought that the pattern of the movement looked a lot like a school of fish in
 
 I decided to modify the code of my previous assignemt to have the vehicles evolve to stay away from the edges of the canvas. For the first part, I decided to use applyForce when they approach the edge and turn around - kind of like they are scared and want to run away from the edges. I decided to do that by increading acceleration based on the parameter of being close to the edges. I thought that an 'if' function would be appropriate. So I would say 'if distance x is as such the force would be applied'. I then realised that for that to make sense, the vehicles would have to turn back first. That would be the second part of the assignemt - to evolve the vehicles to be 'afraid' of the edges so that they turn away when they are close and then accelerate away for a short time. I went back to the lecture notes and then to Daniel's Shiffman's books and spent a considerable amount of type stydying it again before admitting to myself that I am completely an utterly lost in regard to how to come about to actually implementing this and reached out to Michael. 
  
+## March 1 - Assignment 5
+
+I wanted to have fish that are afriad of the edges of the canvas and turn back when they are too close to one. The have a genetic fear threshold that determines how succeptable they are to fear and if their fear tops this threshold they act on it and run. 
+I did that by having the fear increase the closer they get to and edge and then comapre the fear level ot the threshold. 
+
+My biggest challenge was understanding the concept of evolution in terms of creating new fish. I wanted to have the fish die when their fear level is way too high (perhaps of shock) and I tried implementing that in my code, but I didnt fully understand how to make new fish and change their DNA so that they are less fearful. 
+
+I spent Thursday and Friday rereading and rewatching information on evolution to be clearer on the concepts, and I spent Saturday and Sunday coding an debugging. My main frustration is all the syntax errors that I accidentally make and cant find the cause of because they end up taking a lot of my time out of trying to debug the actual content. In the end, I was sure that my code was going to work, but then this happened:
