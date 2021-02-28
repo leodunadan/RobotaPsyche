@@ -31,4 +31,6 @@ I did that by having the fear increase the closer they get to and edge and then 
 
 My biggest challenge was understanding the concept of evolution in terms of creating new fish. I wanted to have the fish die when their fear level is way too high (perhaps of shock) and I tried implementing that in my code, but I didnt fully understand how to make new fish and change their DNA so that they are less fearful. 
 
-I spent Thursday and Friday rereading and rewatching information on evolution to be clearer on the concepts, and I spent Saturday and Sunday coding an debugging. My main frustration is all the syntax errors that I accidentally make and cant find the cause of because they end up taking a lot of my time out of trying to debug the actual content. In the end, I was sure that my code was going to work, but then this happened:
+I spent Thursday and Friday rereading and rewatching information on evolution to be clearer on the concepts, and I spent Saturday and Sunday coding an debugging. My main frustration is all the syntax errors that I accidentally make and cant find the cause of because they end up taking a lot of my time out of trying to debug the actual content. In the end, I was sure that my code was going to work, but then this happened and I just felt very defeated. Will ask to talk to Michael again tomorrow. 
+
+![](Images/Capture4.JPG)
