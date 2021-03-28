@@ -1,4 +1,4 @@
-###DIscussion Topics
+Discussion Topics
 
 1) The Five Robots talked about using robots as tools, which led me to think about the idea of ownership. Who owns a robot? How ethical is it to own something that is capable of making its owne decisions? At what stage is the developmwnt of AI conciousness can we say "okay, its not eathical for this to be a belonging anymore". At what stage to be start looking at a robot as a being and not as a tool?
 2) In the question of fairness, would it ever make sense, at some point in the future, to have humans answer to machines in the work force? To say, avoid bias in the workplace and create a feeling of equality between emploees, in lets say, jobs that do not recuire the making of decicions. (So AI is what assigns tasks to workers that the CEO wants done, but its not the CEO, if that makes sense). Or is this getting dangerously close to a distopian world where robots inslave humanily?
