@@ -1,4 +1,8 @@
 
+Production Assignment
+
+I struggled to understand how this works, and spent most of my time just trying to work it out. It started to make more sense at the end, but even though I did it, I am still not sure that the concept a hundred percent makes sense to me. 
+
 Discussion topics:
 
 1) The relationship between Robbie and Gloria reminded me of stories about children and animals, where Robbie's character could be a dog or a cat that the girl spends a lot of time with and starts seeing as a friend. How would their dynamic in the story change if Robbie was a pet instead of a robot?
