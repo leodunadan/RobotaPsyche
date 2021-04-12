@@ -1,1 +1,3 @@
+Assignment - AvoidRed
 
+At first, I was confused by what the assignment wanted us to do, but then I realised that it is a similar concept as with avoididng agressive vehicles. We had to check if a vehicle is red and then take actions acordingly. Because I thought that it is similar to what is done in avoididing aggressive, I based my code very heavily on Professor Michael's code for avoiding aggressive, just tweaking it to look for red. Becuase I wasn't a hundred percent sure what the code does still, I wasnt sure if my code does what it was meant to do, or if I had interpreted it correctly, but I am happy that I at least made the connection between avoiding red and avoiding aggressive.
