@@ -13,7 +13,7 @@ About Sophia/ AI:
 1) https://www.youtube.com/watch?v=78-1MlkxyqI&ab_channel=TechInsider
 2) https://www.youtube.com/watch?v=W0_DPi0PmF0&ab_channel=CNBC
 
-1) https://www.psychologytoday.com/us/blog/artificial-you/201910/could-robot-ever-be-conscious
+1)https://www.psychologytoday.com/us/blog/artificial-you/201910/could-robot-ever-be-conscious
 2) https://www.huffpost.com/entry/the-problem-of-ai-conscio_b_9502790
 3) https://www.bbc.com/news/science-environment-43408961
 4) https://www.bbc.com/news/science-environment-43408961
