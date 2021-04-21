@@ -28,3 +28,20 @@ About Westword:
 3) https://strangenotions.com/the-philosophical-landscape-of-westworld/
 4) https://jackfisherbooks.com/2018/06/05/the-appeal-and-major-implications-of-westworld/
 5) https://danielmiessler.com/blog/analysis-philosophy-westworld/
+
+
+
+April 20th
+
+On this day I did some more reserach and then wrote an outline for my paper. The outline is as follows:
+
+Introduction - The start of the paper will introduce Westworld and the robot Sophia and reference the ideaa that ideas in science fiction have often been invented or created in real life. The paper would give a few examples of when and how ideas in science fiction have had tangible implications in the real world. The purpose of this paper is to analyse a specific work of science fiction (Westorld) and discuss the implications of a real world robot's (Sophia's) reaction to it and what it might imply for the future of robotics. 
+
+
+First paragraph - It would describe the plot of Westword and some key ideas and points that define the robots in the series and how the questions of ethics and conciousness are adressed in its story. This section would reference direct quotes and scenes from the show as well as articles written about it already. 
+
+Second paragraph - Would give a background about Sophia and Hansen robotics and discuss some key points that have made Sophia stand out (her getting Saudi citizeship) and the ethics and debates surrounding that. It would include my own thoughts as well as cite ideas written by other people involved in the conversation. This paragraph would also introduce the interview with Sophia and cite the line that she said about Westworld that would lead into the next paragraph. 
+
+Third paragraph - This is where the line Sophia said about Westworld would be discussed in the context of the first and second paragraphs where the ideas presented in the show would be compared to the conversation around Sophia and an analysis would be done about what the two could mean for the future of robotics.
+
+Conclusion - This would sum up 
