@@ -12,15 +12,13 @@ About Sophia/ AI:
 
 1) https://www.youtube.com/watch?v=78-1MlkxyqI&ab_channel=TechInsider
 2) https://www.youtube.com/watch?v=W0_DPi0PmF0&ab_channel=CNBC
-
-1)https://www.psychologytoday.com/us/blog/artificial-you/201910/could-robot-ever-be-conscious
-2) https://www.huffpost.com/entry/the-problem-of-ai-conscio_b_9502790
-3) https://www.bbc.com/news/science-environment-43408961
-4) https://www.bbc.com/news/science-environment-43408961
-5) https://www.bbc.com/news/technology-30290540
-6) https://medium.com/@eripsa/sophia-and-her-critics-5bd22d859b9c
-7) https://fortune.com/2017/10/27/sophia-the-robot-artificial-intelligence/
-8) https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics
+3) https://www.psychologytoday.com/us/blog/artificial-you/201910/could-robot-ever-be-conscious
+4) https://www.huffpost.com/entry/the-problem-of-ai-conscio_b_9502790
+5) https://www.bbc.com/news/science-environment-43408961
+6) https://www.bbc.com/news/technology-30290540
+7) https://medium.com/@eripsa/sophia-and-her-critics-5bd22d859b9c
+8) https://fortune.com/2017/10/27/sophia-the-robot-artificial-intelligence/
+9) https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics
 
 
 About Westword:
