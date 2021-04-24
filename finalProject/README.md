@@ -4,7 +4,7 @@ In an interview, the AI robot Sophia said that she liked the TV show Westworld a
 
 ### Journal 
 
-# April 19th
+#### April 19th
 
 On this day I spent time doing research and made a list of sources I could use for my paper. These are some of the links:
 
@@ -31,7 +31,7 @@ About Westword:
 
 
 
-# April 20th
+#### April 20th
 
 On this day I did some more reserach and then wrote an outline for my paper. The outline is as follows:
 
@@ -47,10 +47,10 @@ Third paragraph - This is where the line Sophia said about Westworld would be di
 Conclusion - This would sum up the points made throughout the paper and finish off with my closing thoughts. 
 
 
-# April 21st
+#### April 21st
 
 On this day I started writing the paper itself beginning witht the introduction. I faced some challenges with phrasing and trying to put into words what I want to say, but overall it was quite a smooth process. 
 
-# April 24th
+#### April 24th
 
 
