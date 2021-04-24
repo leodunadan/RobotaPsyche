@@ -53,4 +53,4 @@ On this day I started writing the paper itself beginning witht the introduction.
 
 #### April 24th
 
-
+I carried out research into some of the informaion that I have so far mentioned in the introduction of my paper. I also finished writing the introduction to my paper. I planned for it to be about 250 words, but as its stands, it is currently about 450 words long. 
