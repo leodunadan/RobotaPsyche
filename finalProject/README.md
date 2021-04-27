@@ -54,3 +54,8 @@ On this day I started writing the paper itself beginning witht the introduction.
 #### April 24th
 
 I carried out research into some of the informaion that I have so far mentioned in the introduction of my paper. I also finished writing the introduction to my paper. I planned for it to be about 250 words, but as its stands, it is currently about 450 words long. 
+
+#### April 27th 
+
+I finished the first body paragraph. It analyses the plot of Westworld and gives an overview of the ethical questions adressed in the show. It contains 599 words which means that so far my paper is 1054 words long which is about 3 pages double spaced. 
+
