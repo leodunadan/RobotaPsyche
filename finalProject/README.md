@@ -59,3 +59,6 @@ I carried out research into some of the informaion that I have so far mentioned 
 
 I finished the first body paragraph. It analyses the plot of Westworld and gives an overview of the ethical questions adressed in the show. It contains 599 words which means that so far my paper is 1054 words long which is about 3 pages double spaced. 
 
+#### April 29th 
+
+I finished the second body paragraph that talks about the controversy surrounging Sophia. Now I have 1645 words which makes for about 5 pages double spaced. I also did additional research on some of the critics of Sophia and gathered some additional resources.
