@@ -63,11 +63,11 @@ I finished the first body paragraph. It analyses the plot of Westworld and gives
 
 I finished the second body paragraph that talks about the controversy surrounging Sophia. Now I have 1645 words which makes for about 5 pages double spaced. I also did additional research on some of the critics of Sophia and gathered some additional resources.
 
-#### March 1st
+#### May 1st
 
 I finished the third body paragraph and conclusion. I really struggled with expressing what I wanted to say in this part of the paper and spent a lot of time rewritting it. I now have about 6 pages. 
 
-#### March 2nd 
+#### May 2nd 
 
 I editted my paper, added the citations and rewrote some parts I wasn't happy with. Even though I struggled to put on paper what I wanted to say in some parts of it, I am pretty happy with it and I feel like writing it plus all the research I did for bit and all the articles I read is a nice wrap up to everything I learned in this class and all our wonderful discussions. There are a lot of things in my paper that I wish I could go more in depth into, for example where I mentioned that maybe robots should not even think about harming humans because thoughts lead to actions, whatever thinking is for a robot, and how that relates to the law of robotics about not killing humans. But unfortunately with my paper already being almost 8 pages long, I unfortunately couldnt go into detail. I also wannted to go more into detail about the issue of concent, and about how soon we might have robots inteligent enoughfor that to be an issue, but my paper would have been 50 pages long haha so I had to wrap it up. But I still felt like it was a wonderful experince and I learned a lot from it. 
 
